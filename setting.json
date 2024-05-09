@@ -1,10 +1,12 @@
-"vim.insertModeKeyBindings": [
-    {
-        "before": ["k", "j"],
-        "after": ["<Esc>"]
-    },
-    {
-        "before": ["j", "k"],
-        "after": ["<Esc>"]
-    }, 
-]  
+{
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["k", "j"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["j", "k"],
+            "after": ["<Esc>"]
+        }
+    ]
+}  
